@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 I'm Frieda, 20 years old and I love programming.<br>📖 I'm currenly in high school.<br>🔭 I’m currently working on my website and little helping scripts.<br>🌱 I’m currently learning pythons ui libraries.<br>📺 And I want to build my own PC from scratch like nand2tetris.<br>
+💬 I'm Frieda, 21 years old and I love programming.<br>📖 I'm currenly in uni.<br>🔭 I’m currently working on many small projects that I might or might not publish here.<br>rn I'm trying to get my desktop clean<br>
 
 
 ## 🌐 Socials:
